@@ -1,4 +1,4 @@
-﻿namespace Arrays
+﻿namespace BinaryToInt
 {
     public class Program
     {
